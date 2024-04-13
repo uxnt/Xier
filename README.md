@@ -1,5 +1,5 @@
 
-XyperBlade 文字编程语言
+XhyperBlade 文字编程语言
 
 ```css
 标题:系统流打印信息
