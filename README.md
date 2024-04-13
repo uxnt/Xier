@@ -1,5 +1,8 @@
+<picture>
+  <img src="XinRed.png" alt="XinRed-logo" height="128">
+</picture>
 
-Xier 编程语言( Xie Red Neon Hyper Divine Blade )
+# Xier 编程语言( Xie Red Neon Hyper Divine Blade )
 
 ```css
 标题:系统流打印信息
