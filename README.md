@@ -1,5 +1,5 @@
 
-XhyperBlade 文字编程语言
+X Hyper Deep Blade 编程语言
 
 ```css
 标题:系统流打印信息
